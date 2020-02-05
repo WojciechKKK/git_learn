@@ -1,2 +1,1 @@
-console.log('test3');
-console.log('nowy');
+console.log('siema');
